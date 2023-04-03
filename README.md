@@ -8,7 +8,7 @@ With AF2 It is now possible to explore and predict the structures of numerous mo
 This user-friendly framework called Resource of AF2 predicted structures of autophagy pathway contains structural information on the proteins that are involved in the autophagic process. Moreover, the resource contains predicted protein structures that can be downloaded and utilized for further analysis and study, facilitating understanding of autophagic processes. With the help of our resource, researchers can comprehensively analyse the protein structures, and potentially use them for drug development and other research inferences. We are excited to share this resource with the scientific community and hope that it can contribute to further advances in the structural understanding of proteins involved in the autophagy process.
 
 
-#ATG7-LC3B tetramer predicted by AF2
+##ATG7-LC3B tetramer predicted by AF2
 
 ![ATG7-LC3B-complex (2)](https://user-images.githubusercontent.com/65184350/229588827-690b2361-def4-4977-9088-39f74260b8ef.jpg)
 
