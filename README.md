@@ -9,7 +9,7 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 
 #ATG7-LC3B tetramer predicted by AF2
-<![ATG7-LC3B-complex (1)](https://user-images.githubusercontent.com/65184350/229587497-20aa6532-ee80-4125-a676-40955297970d.jpg) width="600" height="300">
+<img src="(https://user-images.githubusercontent.com/65184350/229587497-20aa6532-ee80-4125-a676-40955297970d.jpg) width="600" height="300">
 
 #Contents
 
