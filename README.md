@@ -12,7 +12,7 @@ With AF2 It is now possible to explore and predict the structures of numerous mo
 
 2.Table.xls contains list of 416 mammalian autophagic proteins, their dissection into core proteins, further categorization into the functional subgroup viz., ULK complex, PI3K complex, ATG9 complex and UBL conjugation system. Quantitative information of the experimental structural coverage of each of the proteins is enlisted along with AF2 predicted pLDDT scores for residues with no experimental structural coverage. In addition, IDRs predicted with IUPRED2 is compared with AF2 predicted pLDDT scores.
 
-3. Pdb-Files -This folder contains all the structural files containing three dimensional organisation of the proteins  involved in  mammalian autophagy interactome listed  in Table.xls
+3.Pdb-Files -This folder contains all the structural files containing three dimensional organisation of the proteins  involved in  mammalian autophagy interactome listed  in Table.xls
  
 #Acknowledgments
 
