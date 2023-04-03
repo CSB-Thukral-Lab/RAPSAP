@@ -16,7 +16,7 @@ With AF2 It is now possible to explore and predict the structures of numerous mo
  
 #Usage
 
-1. You can easily download the .pdb files and can view using any interactive and visulaization tools like chimera, chimeraX etc.
+1.You can easily download the .pdb files and can view using any interactive and visulaization tools like chimera, chimeraX etc.
 
 
 
