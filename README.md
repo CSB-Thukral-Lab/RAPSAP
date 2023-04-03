@@ -1,4 +1,4 @@
-# RASAP 1.0
+# RASAP 
 Resource of AF2 predicted structures of autophagy pathway is a resource that contains strutural information on the proteins that are involved in the autophagic database.
 Autophagy is a evolutionary conserved, highly regulated process that is required for the removal of unwanted materials from the cell to maintain cellular homeostasis.
 Multiple protein participates in the crusade to maintain this crucial process. Previously due to complexity nature of the experiments to resolve  crystal structures of proteins , the structural bandwith of the proteome was less understood in terms of mechanistic and dynamic characterization . With the availability of AI driven AlpaFold from Google deepmind as a open source tool , structural bandwith of protein is significantly increased.
