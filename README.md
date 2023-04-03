@@ -10,5 +10,6 @@ With AF2 It is now possible to explore and predict the structures of numerous mo
 3. Pdb-Files -This folder contains all the structural files containing three dimensional organisation of the proteins  involved in  mammalian autophagy interactome listed  in Table.xls
  
 #Acknowledgments
+
 This project was made possible through the use of AlphaFold, developed by DeepMind. We thank the AlphaFold team for their work and contributions to the field of protein structure prediction. We also acknowledge the support from CSIR-IGIB for infrastructure and supercomputing facilities.  
 
