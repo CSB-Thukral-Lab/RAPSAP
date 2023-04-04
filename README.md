@@ -12,7 +12,8 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 ![RAPSAP_Fig](https://user-images.githubusercontent.com/65184350/229787425-64bf8d7b-4fa6-46c0-8623-86a652d126a1.png)
 
 
-**Contents**
+##Contents
+***
 
 * Autophagic Protein Interactome  contains two separate folders containing structural information of 416 mammalian autophagic proteins characterized according to their structural coverage to unearth structural bandwidth in autophagic proteins interaction network. First category contains .pdb structures of all the proteins which have structural coverage less than 90 percent and vice versa along with a table highlighting broad information on the respective proteins.
 
@@ -35,6 +36,6 @@ This project was made possible through the use of AlphaFold, developed by DeepMi
 
 **Get in Touch**
 
-If you have any questions or queries please drop an email to lipi.thukral@igib.in
+If you have any questions or queries please contact the CSB team at lipi.thukral@igib.in
 
 **Thank You**
