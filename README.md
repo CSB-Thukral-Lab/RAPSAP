@@ -13,13 +13,14 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 
 
-##**Contents**
+**Contents**
 
 1.Autophagic Protein Interactome  contains two separate folders containing structural information of 416 mammalian autophagic proteins characterized according to their structural coverage to unearth structural bandwidth in autophagic proteins interaction network. First category contains .pdb structures of all the proteins which have structural coverage less than 90 percent and vice versa along with a table highlighting broad information on the respective proteins.
 
 2.Core Autophagic proteins is a list of proteins which is subdivied between high, medium and low strcutures according to the percentage of atomistic resolution available along with a table of proteins.
 
 3.Multimer Contains models of standalone AF2 predicted prediected structures of ATG7-ATG10. Top 5 ranked structures have been uploaded with open access. To further understand the proteins dynamics of the multimeric proteins we perfromed md simulation of the ATG7-ATG10 tetramer and found three key critical interactions that were further modelled and simulated insilico. Wildtype and Mutant ATG7-ATG10 tetramer contains all structural files at different time step to understand protein evolution in tetramer assembly.
+
 
 4.Simulation of High Confidence Structures folder contains .pdb files of ATG2,ATG10 and ATG14. Each subfolder of these protein contains .pdb files at different timescale from 1 microsecond of trajectory.
 
@@ -33,3 +34,6 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 This project was made possible through the use of AlphaFold, developed by DeepMind. We thank the AlphaFold team for their work and contributions to the field of protein structure prediction. We also acknowledge the support from CSIR-IGIB for infrastructure and supercomputing facilities.  
 
+**Get in Touch**
+If you have any questions or queries please drop an email to lipi.thukral@igib.in
+**Thank You**
