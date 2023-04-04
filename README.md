@@ -15,12 +15,14 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 **Contents**
 
-1.AF2_models contains 5 AF2 predicted models of autophagic proteins/complexes, computed using standalone application of AF2. Core proteins with experimental structural coverage less than 90% in humans were taken for prediction. These include: ATG2A, ATG14, ATG10, FIP200, AMBRA1, ULK4. In addition, AF2 predicted ATG7 and ATG7-ATG10 tetramer complex models are also provided.
+1.Autophagic Protein Interactome  contains two separate folders containing structural information of 416 mammalian autophagic proteins characterized according to their structural coverage to unearth structural bandwidth in autophagic proteins interaction network. First category contains .pdb structures of all the proteins which have structural coverage less than 90 percent and vice versa along with a table highlighting broad information on the respective proteins.
 
-2.Table.xls contains list of 416 mammalian autophagic proteins, their dissection into core proteins, further categorization into the functional subgroup viz., ULK complex, PI3K complex, ATG9 complex and UBL conjugation system. Quantitative information of the experimental structural coverage of each of the proteins is enlisted along with AF2 predicted pLDDT scores for residues with no experimental structural coverage. In addition, IDRs predicted with IUPRED2 is compared with AF2 predicted pLDDT scores.
+2.Core Autophagic proteins is a list of proteins which is subdivied between high , medium and low categories according to the percentage of atomistic resolution avilable along with a table of respective proteins.
 
-3.Pdb-Files -This folder contains all the structural files containing three dimensional organisation of the proteins  involved in  mammalian autophagy interactome listed  in Table.xls
- 
+3.Multimer Contains models of standalone AF2 predicted prediected structures. 
+
+4.Simulation of High Confidence Structures
+
 **Usage**
 
 1.You can easily download the .pdb files and can view using any interactive and visulaization tools like chimera, chimeraX etc.
