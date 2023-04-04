@@ -13,7 +13,7 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 
 
-**Contents**
+##**Contents**
 
 1.Autophagic Protein Interactome  contains two separate folders containing structural information of 416 mammalian autophagic proteins characterized according to their structural coverage to unearth structural bandwidth in autophagic proteins interaction network. First category contains .pdb structures of all the proteins which have structural coverage less than 90 percent and vice versa along with a table highlighting broad information on the respective proteins.
 
