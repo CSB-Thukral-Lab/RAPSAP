@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/65184350/229834533-fc882780-59c8-4e0c-a5ae-5475bff806ed.png)
+![image](https://user-images.githubusercontent.com/65184350/229836395-d3383150-9deb-41ee-acc0-d05e180ae285.png)
 
 **Resource of AF2 predicted structures of autophagy pathway**
 ***
