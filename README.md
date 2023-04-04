@@ -9,7 +9,8 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 
 **Resource of AF2 predicted structures of autophagy pathway** have to update
-![RAPSAP_Fig (1)](https://user-images.githubusercontent.com/65184350/229756120-b7a24f8e-e856-4844-acd3-fb723f31c580.png)
+![RAPSAP_Fig](https://user-images.githubusercontent.com/65184350/229787425-64bf8d7b-4fa6-46c0-8623-86a652d126a1.png)
+
 
 
 **Contents**
