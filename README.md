@@ -25,7 +25,7 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 **Usage**
 ***
-* You can easily download the .pdb files and can view using any interactive and visulaization tools like chimera, chimeraX etc.
+* You can easily download the .pdb files and can view them using any interactive and visulaization tools like chimera, chimeraX etc.
 
 
 
