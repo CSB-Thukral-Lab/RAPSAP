@@ -34,5 +34,7 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 This project was made possible through the use of AlphaFold, developed by DeepMind. We thank the AlphaFold team for their work and contributions to the field of protein structure prediction. We also acknowledge the support from CSIR-IGIB for infrastructure and supercomputing facilities.  
 
 **Get in Touch**
+
 If you have any questions or queries please drop an email to lipi.thukral@igib.in
+
 **Thank You**
