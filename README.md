@@ -42,4 +42,9 @@ This project was made possible through the use of AlphaFold, developed by DeepMi
 
 If you have any questions or queries please contact the CSB team at lipi.thukral@igib.in
 
+#### Citing RAPSAP
+
+If you use this software in your publication please cite:
+
+
 **Thank You**
