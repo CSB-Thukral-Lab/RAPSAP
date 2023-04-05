@@ -23,9 +23,10 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 * Three different proteins, ATG2, ATG10, and ATG14, are represented by a collection of.pdb files in the "Simulation of High Confidence Structures" folder. These proteins are arranged into distinct subfolders, each of which contains .pdb structural files that reflect their conformational states along a trajectory of 1 microsecond and at various timescales. This repository will make it possible to thoroughly investigate and analyse the structural characteristics of these proteins.
 
 
-### **Running LigExtract and Usage**
+### **Downloading RAPASAP repository and Usage**
 
 1. git clone into the RAPSAP repository into your home directory 
+         git clone https://github.com/CSB-Thukral-Lab/RAPSAP.git
 
 2. cd into your working directory. This is where you can find all the PDBs segreagated  
        
