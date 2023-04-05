@@ -8,7 +8,6 @@ With AF2 It is now possible to explore and predict the structures of monomeric a
 This user-friendly framework called Resource of AF2 predicted structures of autophagy pathway contains structural information on the proteins that are involved in the autophagic process. Moreover, the resource contains predicted protein structures that can be downloaded and utilized for further analysis and study, facilitating understanding of autophagic processes. With the help of our resource, researchers can comprehensively analyse the protein structures, and potentially use them for drug development and other research inferences. We are excited to share this resource with the scientific community and hope that it can contribute to further advances in the structural understanding of proteins involved in the autophagy process and it will aid researchers in gaining a better understanding of the structural basis of protein-protein interactions involved in the autophagic process, which can further provide insights into the regulation and dysregulation of autophagy in various diseases.
 
 
-**Resource of AF2 predicted structures of autophagy pathway** have to update
 ![RAPSAP_Fig](https://user-images.githubusercontent.com/65184350/229787425-64bf8d7b-4fa6-46c0-8623-86a652d126a1.png)
 
 
