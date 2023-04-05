@@ -25,7 +25,7 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 ### **Running LigExtract and Usage**
 
-1. git clone into  the RAPSAP repository into your home directory
+1. git clone into the RAPSAP repository into your home directory
 
 2. cd into your working directory. This is where all PDBs will be downloaded 
        
