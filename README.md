@@ -26,7 +26,8 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 ### **Downloading RAPASAP repository and Usage**
 
 1. git clone into the RAPSAP repository into your home directory 
-         git clone https://github.com/CSB-Thukral-Lab/RAPSAP.git
+
+      git clone https://github.com/CSB-Thukral-Lab/RAPSAP.git
 
 2. cd into your working directory. This is where you can find all the PDBs segreagated  
        
