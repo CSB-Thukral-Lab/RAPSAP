@@ -44,7 +44,7 @@ If you have any questions or queries please contact the CSB team at lipi.thukral
 
 #### Citing RAPSAP
 
-If you use this software in your publication please cite:
+If you use this resource framework in your publication please cite:
 
 
 **Thank You**
