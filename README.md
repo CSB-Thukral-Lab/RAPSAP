@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/65184350/229837923-8815daae-fdcc-45fe-8e59-e5e78e580ed4.png)
 
-**Resource of AF2 predicted structures of autophagy pathway**
+# **Resource of AF2 predicted structures of autophagy pathway**
 ***
 Welcome to our GitHub repository! Here, we present a resource package that utilizes AlphaFold2, a state-of-the-art deep learning model, for improving the structural spectrum of autophagy proteins. The protein structural bandwidth of multiple proteomes has been greatly improved with the release of Google DeepMind’s AI-driven AlphaFold (https://github.com/deepmind/alphafold) which can be utilized as an open-source tool .This  has significantly improved structural coverage of the proteins, which earlier lacked atomistic resolution with reasonable confidence, over previous protein prediction methods. Using the tool, we have analysed the autophagic interactome, which is comprised of key autophagic proteins and several interacting partners.
 
@@ -12,7 +12,7 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 ![RAPSAP_Fig](https://user-images.githubusercontent.com/65184350/229787425-64bf8d7b-4fa6-46c0-8623-86a652d126a1.png)
 
 
-**Contents**
+## **Contents**
 ***
 * Autophagic Protein Interactome contains information on mammalian autophagic proteins’  comprising structural data which  is in two separate folders. To determine the structural bandwidth in the network of interactions between autophagic proteins, these proteins have been evaluated based on their structural coverage. The first folder includes the structural data in .pdb format for all the proteins that have a structural coverage of less than 90 percent. The second folder, on the other hand, contains the structural data for the remaining proteins with a structural coverage of 90 percent or more. Additionally, a table highlighting relevant information about each protein is also provided.
 
@@ -23,13 +23,18 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 * Three different proteins, ATG2, ATG10, and ATG14, are represented by a collection of.pdb files in the "Simulation of High Confidence Structures" folder. These proteins are arranged into distinct subfolders, each of which contains .pdb structural files that reflect their conformational states along a trajectory of 1 microsecond and at various timescales. This repository will make it possible to thoroughly investigate and analyse the structural characteristics of these proteins.
 
-**Usage**
-***
-* You can download the .pdb files and can view and analyse them using any interactive and molecular visualization tools like vmd, chimeraX etc.
+
+### **Running LigExtract and Usage**
+
+1. git clone LigExtract into your home directory
+
+2. cd into your working directory. This is where all PDBs will be downloaded 
+       
+3. You can download the .pdb files and can view and analyse them using any interactive and molecular visualization tools like vmd, chimeraX etc.
 
 
 
-**Acknowledgments**
+#### **Acknowledgments**
 ***
 This project was made possible through the use of AlphaFold, developed by DeepMind. We thank the AlphaFold team for their work and contributions to the field of protein structure prediction. We also acknowledge the support from CSIR-IGIB for infrastructure and supercomputing facilities.
 
