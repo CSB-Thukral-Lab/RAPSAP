@@ -25,11 +25,11 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
 
 ### **Running LigExtract and Usage**
 
-1. git clone into the RAPSAP repository into your home directory
+1. git clone into the RAPSAP repository into your home directory 
 
-2. cd into your working directory. This is where all PDBs will be downloaded 
+2. cd into your working directory. This is where you can find all the PDBs segreagated  
        
-3. You can download the .pdb files and can view and analyse them using any interactive and molecular visualization tools like vmd, chimeraX etc.
+3. You  can view and analyse them using any interactive and molecular visualization tools like vmd, chimeraX etc.
 
 
 
