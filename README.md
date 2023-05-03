@@ -31,7 +31,6 @@ This user-friendly framework called Resource of AF2 predicted structures of auto
        
 3. You  can view and analyse them using any interactive and molecular visualization tools like vmd, chimeraX etc.
 
-### **Find out more about work**
 Please find more about RAPSAP at http://rapsap.igib.res.in/
 
 #### **Acknowledgments**
